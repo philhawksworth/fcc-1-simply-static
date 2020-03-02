@@ -15,12 +15,16 @@ In the video, we show this single asset site being deployed via [Netlify Drop](h
 To work on this example locally, you can clone the repository and simply start editing. There is no build step or any pre-requisites.
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/philhawksworth/fcc-3-adding-js-for-simple-render
 ```
 
 ## Clone and deploy
 
-If you wanted to quickly clone this repository and deploy it as a new site on [Netlify](https://www.netlify.com?utm_source=github&utm_medium=fcc-examples-pnh&utm_campaign=devex)
+If you wanted to quickly clone this repository and deploy it as a new site on [Netlify](https://www.netlify.com?utm_source=github&utm_medium=fcc-examples-pnh&utm_campaign=devex) you can click the button below for a rapid start.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/fcc-3-adding-js-for-simple-render)
+
+
 
 
 ## Watch the video
