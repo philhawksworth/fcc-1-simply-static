@@ -36,7 +36,7 @@ For a better understanding of what this example is and why it exists, you can ju
 
 ## Other code examples in this series
 
-- [Example 1 - All simply static](https://findthat.at/jamstack/ex1)
+- [Example 1 - All simply static](https://findthat.at/jamstack/ex1) (👈 you are here)
 - [Example 2 - Changing the DOM with JavaScript](https://findthat.at/jamstack/ex2)
 - [Example 3 - Introducing a static site generator](https://findthat.at/jamstack/ex3)
 - [Example 4 - Generating pages from a content API](https://findthat.at/jamstack/ex4)
@@ -48,4 +48,4 @@ For a better understanding of what this example is and why it exists, you can ju
 
 - [jamstack.org](https://jamstack.org?utm_source=github&utm_medium=fcc-examples-pnh&utm_campaign=devex) - More info and resources
 - [Official JAMstack slack](https://jamstack.org/slack) - conversation about JAMstack and web development (come on in!)
-- [Modern Web Development on the JAMstack, O'reilly, 2019](https://findthat.at/jamstack/book) - Book on building JAMstack. Available as a free e-book.
+- [Modern Web Development on the JAMstack, O'reilly, 2019](https://findthat.at/jamstack/book) - Book on building websites with the JAMstack. Available as a free e-book.
