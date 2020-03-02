@@ -42,6 +42,6 @@ For a better understanding of what this example is and why it exists, you can ju
 
 ## More JAMstack resources to explore
 
-- [jamsstack.org](https://jamstack.org?utm_source=github&utm_medium=fcc-examples-pnh&utm_campaign=devex)
-- [Official JAMstack slack](https://jamstack.org/slack)
-- [Modern Web Development on the JAMstack, O'reilly, 2019](https://findthat.at/jamstack/book)
+- [jamstack.org](https://jamstack.org?utm_source=github&utm_medium=fcc-examples-pnh&utm_campaign=devex) - More info and resources
+- [Official JAMstack slack](https://jamstack.org/slack) - conversation about JAMstack and web development (come on in!)
+- [Modern Web Development on the JAMstack, O'reilly, 2019](https://findthat.at/jamstack/book) - Book on building JAMstack. Available as a free e-book.
