@@ -32,7 +32,7 @@ If you wanted to quickly clone this repository and deploy it as a new site on [N
 For a better understanding of what this example is and why it exists, you can jump directly into the video at the point we are discussing this example
 
 
-[![JAMstack video](https://www.freecodecamp.org/news/content/images/size/w1000/2020/03/jamstack.png)](https://youtu.be/A_l0qrPUJds?t=30m14s)
+[![JAMstack video](https://www.freecodecamp.org/news/content/images/size/w1000/2020/03/jamstack.png)](https://youtu.be/A_l0qrPUJds?t=32m14s)
 
 
 
